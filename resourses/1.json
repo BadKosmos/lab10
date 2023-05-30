@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "name": "Chocolate",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Cofee",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Tea",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "Milk",
+            "price": 213,
+            "weight": 123,
+            "available": true
+        },
+        {
+            "name": "Cheese",
+            "price": 21321,
+            "weight": 132,
+            "available": true
+        },
+        {
+            "name": "Salt",
+            "price": 1,
+            "weight": 1,
+            "available": true
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+cat - Kotik
+dog - sobaka
+home - Domashnaya papka, dom
+mouse - mish, manipulator mish
+to do - delat, izgotavlivat
+to make - delat rukami
